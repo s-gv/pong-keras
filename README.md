@@ -10,7 +10,8 @@ Requirements
 ------------
 
 - Python 3.6
-- Tensorflow 1.14
 - NumPy
+- Tensorflow 1.14
+- OpenAI gym
 
 
