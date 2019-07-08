@@ -2,7 +2,7 @@ Learning to play Pong with Keras
 ================================
 
 This repo has implementations of reinforcement learning (RL) algorithms in Keras to learn to play Atari Pong.
-These implementations are what I wrote in the process of learning about these RL algorithms and are not
+This is what I wrote in the process of learning about these RL algorithms and, it's not
 well-tuned or performant. If you're looking for a reference implementation to compare against, check out
 [OpenAI baselines](https://github.com/openai/baselines).
 
