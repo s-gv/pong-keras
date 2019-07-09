@@ -9,6 +9,7 @@ well-tuned or performant. If you're looking for a reference implementation to co
 - `pong-pg.py` - Policy gradient (REINFORCE algorithm). [Defeats](https://www.youtube.com/watch?v=eYp6MeADc8I) the "computer" opponent after 400 episodes of training.
 - `pong-actor-critic.py` - On-policy batch actor-critic. [Defeats](https://www.youtube.com/watch?v=rs2B6gPP49k) the "computer" opponent after 300 episodes of training.
 - `pong-ddqn-batch.py` - Off-policy double Q learning. [Defeats](https://www.youtube.com/watch?v=_VnRkKAcnFI) the "computer" opponent after 2000 episodes of training.
+- `pong-ddqn-per.py` - Off-policy double Q learning with prioritized experience replay. [Defeats](https://www.youtube.com/watch?v=rb9QmFbY7kE) the "computer" opponent after 1000 episodes of training.
 
 Requirements
 ------------
